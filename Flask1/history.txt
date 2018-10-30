@@ -1,0 +1,109 @@
+    1  python --version
+    2  python3 --version
+    3  sudo apt-get update
+    4  git clone https://github.com/omajzoub/omajzoub.github.io.git
+    5  ls
+    6  cd
+    7  cd omaj*
+    8  cd omajzoub.github.io
+    9  pwd
+   10  cd ~/.
+   11  pwd
+   12  cd workspace
+   13  cd omajzoub.github.io
+   14  ls
+   15  git add --all
+   16  git commit -m "Test"
+   17  git remote -v
+   18  git push origin master
+   19  git push -u origin master
+   20  git add --all
+   21  git commit -m "Test"
+   22  git push origin master
+   23  cd omajzoub
+   24  cd omajzoub.github.io
+   25  ls
+   26  git add --all
+   27  git commit -m "Test"
+   28  remote -v
+   29  git remote -v
+   30  git push origin master
+   31  pythom3 -m http.server 3000
+   32  python3 -m http.server 3000
+   33  git clone https://github.com/jdebettencourt/myit231stuff.git lab3
+   34  cd lab3
+   35  ls
+   36  cd dataparts
+   37  python3.6 sqlitezero.py
+   38  python --version
+   39  python3 --version
+   40  sudo apt-get update
+   41  sudo apt-get install -y software-properties-common
+   42  sudo add-apt-repository ppa:jonathonf/python-3.6
+   43  sudo apt-get update
+   44  sudo apt-get install python3.6
+   45  python3.6 --version
+   46  o.py
+   47  python3.6 wsgi_chinook.py
+   48  pwd
+   49  python3.6 wsgi_chinook.py
+   50  cd ../pysrvr
+   51  python3.6 responsive.py
+   52  touch food.py
+   53  python3.6 food.py
+   54  food.html
+   55  python3.6 responsive.py
+   56  cd FlaskIT231 
+   57  sudo pip install flask
+   58  flask run --host=0.0.0.0 --port=3000
+   59  flask --version
+   60  pip3 --version
+   61  sudo pip3 install flask
+   62  flask run --host=0.0.0.0 --port=3000
+   63  export FLASK_APP=hello.py
+   64  flask run --host=0.0.0.0 --port=3000
+   65  cd ../.
+   66  cd test
+   67  sudo pip3 install flask
+   68  sudo pip3 install flask --upgrade
+   69  ls -al
+   70  touch hello.py
+   71  ls
+   72  export FLASK_APP=hello.py
+   73  flask run
+   74  python3 -m flask run
+   75  python3 -m flask run --host=0.0.0.0 --port=3000
+   76  export FLASK_ENV=development
+   77  history
+   78  python3 --version
+   79  pip3 --version
+   80  sudo pip3 install flask
+   81  --upgrade
+   82  export LC_ALL=C.UTF-8
+   83  python3 --version
+   84  pip3 --version
+   85  sudo pip3 install flask
+   86  pip3 --upgrade
+   87  sudo pip3 install flask
+   88  export LC_ALL=C.UTF-8
+   89  LANG=C.UTF-8
+   90  sudo pip3 install flask
+   91  history
+   92  python3 -m flask run --host=0.0.0.0 --port=3000
+   93  python3 --version
+   94  pip3 --version
+   95  sudo pip3 install flask
+   96  pip3 --upgrade
+   97  flask --upgrade
+   98  python3 --version
+   99  pip3 --version
+  100  sudo pip3 install flask
+  101  flask --version
+  102  cd --Flask1
+  103  cd Flask1
+  104  export LC_ALL=C.UTF-8
+  105  export LANG=C.UTF-8
+  106  export FLASK_APP=hello.py
+  107  export FLASK_ENV=development
+  108  python3 -m flask run --host=0.0.0.0 --port=3000
+  109  history > history.txt
